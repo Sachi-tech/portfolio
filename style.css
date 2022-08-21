@@ -10,18 +10,18 @@ body{
 }
 
 .main-width{
-    width: 1280px;
+    width: 90%;
     max-width: 95%;
     margin: 0 auto;
     padding: 0px 40px ;
 }
 .hero{
     width: 100%;
-    height: 50%;
+    height: 30%;
     min-height: 230vh;
     background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("background.jpg");
     background-size: cover;
-    background-position: right;
+    background-position: center;
     position: relative;
 }
 
@@ -179,11 +179,11 @@ span{
 }
 .siksha{
     width: 100%;
-    height: 50%;
+    height: 30%;
     min-height: 230vh;
     background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("background.jpg");
     background-size: cover;
-    background-position: right;
+    background-position: center;
     position: relative;
 }
 .edu h1{
@@ -210,11 +210,11 @@ span{
 
 .about{
     width: 100%;
-    height: 50%;
+    height: 30%;
     min-height: 230vh;
     background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("background.jpg");
     background-size: cover;
-    background-position: right;
+    background-position: center;
     position: relative;
 }
 .me{
@@ -264,7 +264,7 @@ span{
 }
 .contact{
     width: 100%;
-    height: 50%;
+    height: 30%;
     min-height: 230vh;
     background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("background.jpg");
     background-size: cover;
@@ -366,11 +366,11 @@ textarea:valid~label{
 }
 .hobbies{
   width: 100%;
-  height: 50%;
+  height: 30%;
   min-height: 230vh;
   background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("background.jpg");
   background-size: cover;
-  background-position: right;
+  background-position: center;
   position: relative;
 }
 .hobbies h2{
