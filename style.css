@@ -191,9 +191,8 @@ span{
     font-size: 30px;
     font-weight: 500;
     line-height: 1.2;
-    margin: 10px;
-    padding-left: 250px;
-    text-align: center;
+    margin: 5px;
+    text-align: left;
 }
 .edu h1:hover{
     background:transparent;
@@ -205,8 +204,8 @@ span{
 .edu ul li{
   font-size: 19px;
   color: #eee;
-  text-align: center;
-  padding-left: 290px;
+  margin:5px;
+  text-align: left;
 }
 
 .about{
